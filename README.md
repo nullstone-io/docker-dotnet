@@ -12,8 +12,9 @@ This image is very opinionated; however, not restrictive.
 
 ## Supported Tags and respective `Dockerfile` links
 
-- [latest, 6](Dockerfile)
-- [local, 6-local](local.Dockerfile)
+- [latest, 6, 6.0](Dockerfile)
+- [local, 6-local, 6.0-local](local.Dockerfile)
+- [builder, 6-builder, 6.0-builder](builder.Dockerfile)
 
 ## Production vs Local
 
