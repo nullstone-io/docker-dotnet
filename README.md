@@ -14,7 +14,7 @@ This image is very opinionated; however, not restrictive.
 
 - [latest, 6, 6.0](Dockerfile)
 - [local, 6-local, 6.0-local](local.Dockerfile)
-- [lambda-builder, 6-lambda-builder, 6.0-lambda-builder](lambda-builder.Dockerfile)
+- [builder, 6-builder, 6.0-builder](builder.Dockerfile)
 
 ## Production vs Local
 
