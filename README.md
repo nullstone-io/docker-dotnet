@@ -12,8 +12,9 @@ This image is very opinionated; however, not restrictive.
 
 ## Supported Tags and respective `Dockerfile` links
 
-- [latest, 6](Dockerfile)
-- [local, 6-local](local.Dockerfile)
+- [latest, 6, 6.0](Dockerfile)
+- [local, 6-local, 6.0-local](local.Dockerfile)
+- [lambda-builder, 6-lambda-builder, 6.0-lambda-builder](lambda-builder.Dockerfile)
 
 ## Production vs Local
 
